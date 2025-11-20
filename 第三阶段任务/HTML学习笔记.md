@@ -7,8 +7,10 @@
 - `<img src="/images 路径" width="258" height="39" alt="文字描述">`用于图片引用
 - `<hr>` 标签在 HTML 页面中创建水平线。
 - `<!--这是一个注释，注释在浏览器中不会显示-->`
+- 制表格使用`<tr><td></td></tr>`
+- 列表使用`<ul><li></li></ul>`
 ***
-### HTML属性
+### HTML属性👌
 - HTML元素可以设置属性
 - 属性可以在元素中添加附加信息
 - 属性一般描述于开始标签
@@ -16,5 +18,5 @@
 - 使用双引号或单引号括住属性值(`属性值本身具有双（单）引号时`用`单（双）引号括住`)
 - 全局属性是所有 HTML 元素都可以使用的属性。
   - `<id>`,`class`,`style`,`title`,`data-*`等
-- [点这里查看属性的用法](https://www.runoob.com/tags/ref-byfunc.html)
+- [点这里查看属性的用法](https://www.w3school.com.cn/tags/html_ref_standardattributes.asp)
   
