@@ -8,7 +8,11 @@
 >- [hello](第二阶段任务/hello.md)
 >- [环境配置](第二阶段任务/环境配置方法.md)
 ## 阶段三💕
-**To be continue...**
-
+>- [HTML学习笔记](第三阶段任务/HTML学习笔记.md)
+>- [CSS学习笔记](第三阶段任务/CSS学习笔记.md)
+>- [JavaScript学习笔记](第三阶段任务/JavaScript学习笔记.md)
+>- [这里是我的Github Page](https://xiaomo2019.github.io/Xiaomo-Web/)
+## 阶段四😎
+**To be continued...**
 ### 这里是遇到的问题以及相关解决方案(会持续更新)😎
 >- [问题及解决](遇到的问题及解决.md)
