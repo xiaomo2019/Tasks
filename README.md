@@ -13,6 +13,5 @@
 >- [JavaScript学习笔记](第三阶段任务/JavaScript学习笔记.md)
 >- [这里是我的Github Page](https://xiaomo2019.github.io/Xiaomo-Web/)
 ## 阶段四😎
-**To be continued...**
 >- [这是旧版Geek网站](https://xiaomo2019.github.io/-Geek-/)
 >- [问题及解决](遇到的问题及解决.md)
