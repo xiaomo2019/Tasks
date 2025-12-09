@@ -14,4 +14,6 @@
 >- [这里是我的Github Page](https://xiaomo2019.github.io/Xiaomo-Web/)
 ## 阶段四😎
 >- [这是旧版Geek网站](https://xiaomo2019.github.io/-Geek-/)
+>- [编后感](第四阶段任务/编后感.md)
+## 考核中遇到的问题
 >- [问题及解决](遇到的问题及解决.md)
